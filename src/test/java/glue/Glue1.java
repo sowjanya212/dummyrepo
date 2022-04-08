@@ -6,9 +6,11 @@ public class Glue1 {
 	{
 		// TODO Auto-generated method stub
 		{
-			String x="ufbukfhbk#$^784FHJ";
+			String x="u12fbukfhbk#$^784FHJ";
 			String y=x.replaceAll("[^0-9]","");
 			System.out.println(y);
+			String Z=x.replaceAll("[^0-5]","");
+			System.out.println(Z);
 
 		}
 		
